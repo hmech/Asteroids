@@ -11,5 +11,9 @@ wheels/
 .venv
 
 # Log files
+<<<<<<< HEAD
 game_events.jsonl
 game_state.jsonl
+=======
+game_events.jsonl
+>>>>>>> fa487e4 (Finished the main course, Adding all files to the public repo)
